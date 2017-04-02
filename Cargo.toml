@@ -1,0 +1,8 @@
+[package]
+name = "magic_index"
+version = "0.1.0"
+authors = ["Patrick Dillon <dillon76@gmail.com>"]
+
+[dependencies]
+rand = "*"
+time = "*"
